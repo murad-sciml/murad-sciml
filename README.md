@@ -21,7 +21,7 @@ I build machine learning methods that help scientists and engineers reach target
 - *Toward efficient dielectric material discovery: Transformer vs. AutoML-based inverse learning*, **Journal of Asian Ceramic Societies** (2026)
 - *An optimized ensemble prediction model using AutoML for network intrusion detection*, **Journal of Network and Computer Applications** (2023)
 
-📚 30+ SCI/E-indexed papers · h-index 14 · [Full list on Google Scholar]([ADD_YOUR_SCHOLAR_LINK](https://scholar.google.com/citations?user=--dAXhkAAAAJ))
+📚 30+ SCI/E-indexed papers · h-index 14 · [Full list on Google Scholar](https://scholar.google.com/citations?user=--dAXhkAAAAJ)
 
 ## 🛠️ Tools
 
@@ -29,6 +29,6 @@ I build machine learning methods that help scientists and engineers reach target
 
 ## 📫 Contact
 
-[LinkedIn]([ADD_YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/murad1996/)) · [Google Scholar]([ADD_YOUR_SCHOLAR_LINK](https://scholar.google.com/citations?user=--dAXhkAAAAJ)) · ali.ghazi.khan@gmail.com
+[LinkedIn](https://www.linkedin.com/in/murad1996/) · [Google Scholar](https://scholar.google.com/citations?user=--dAXhkAAAAJ) · ali.ghazi.khan@gmail.com
 
 *Open to postdoctoral and industry research roles in AI for science starting 2027.*
