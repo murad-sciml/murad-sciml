@@ -13,6 +13,10 @@ I build machine learning methods that help scientists and engineers reach target
 - **Virtual sensors** for spatial-temporal environmental monitoring
 - **Federated learning** for collaborative, privacy-preserving materials discovery
 
+## 🚀 Featured Projects 
+
+- **[resin-materials-ai](https://github.com/murad-sciml/resin-materials-ai)**: End-to-end ML platform for materials design: data integration, inverse design with Pareto optimization, validation protocols, and Bayesian-optimization-driven autonomous experimentation.
+
 ## 📄 Selected Publications
 
 - *Cross-material inverse learning and knowledge transfer for property-driven design of advanced ceramics*, **Journal of Alloys and Compounds** (2026)
